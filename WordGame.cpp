@@ -1,5 +1,5 @@
 /*
-	Desenvolvido por Mateus Mendonça Monteiro RA: 10.191.159-9
+	Desenvolvido por Mateus Mendonça Monteiro
 */
 #include <stdio.h>
 #include <conio.h>
